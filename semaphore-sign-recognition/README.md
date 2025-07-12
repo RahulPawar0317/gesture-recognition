@@ -1,7 +1,7 @@
 
 ---
 
-## 📄 3. Semaphore Project README (`semaphore-sign-recognition/README.md`)
+## 📄 Semaphore Project README (`semaphore-sign-recognition/README.md`)
 
 ```markdown
 # Semaphore Sign Recognition System
