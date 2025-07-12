@@ -11,4 +11,28 @@ Recognizes semaphore flag signals representing 6 English alphabets using a custo
 ---
 
 ## 📂 Folder Structure
+gesture-recognition/
+├── sign-language-recognition/
+└── semaphore-sign-recognition/
+
+
+Each folder contains:
+
+- Source code
+- Dataset details or link
+- Demo video showcasing model performance
+
+---
+
+## 🚀 Getting Started
+
+Each project folder includes its own setup instructions. See individual READMEs for more details.
+
+---
+
+## 🤝 Contributions
+
+Pull requests are welcome. If you'd like to contribute or improve either project, feel free to fork and submit a PR.
+
+---
 
