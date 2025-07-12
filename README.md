@@ -8,16 +8,7 @@ Recognizes hand signs from Indian/American Sign Language using MediaPipe and tra
 ### 🔹 2. [Semaphore Sign Recognition](./semaphore-sign-recognition)
 Recognizes semaphore flag signals representing 6 English alphabets using a custom-trained CNN on a self-created dataset.
 
----
-
-## 📂 Folder Structure
-gesture-recognition/
-├── sign-language-recognition/
-└── semaphore-sign-recognition/
-
-
 Each folder contains:
-
 - Source code
 - Dataset details or link
 - Demo video showcasing model performance
