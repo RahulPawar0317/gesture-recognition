@@ -3,7 +3,6 @@
 
 ## 📄 Semaphore Project README (`semaphore-sign-recognition/README.md`)
 
-```markdown
 # Semaphore Sign Recognition System
 
 This project recognizes semaphore hand gestures representing 6 alphabets of the English language using a custom Convolutional Neural Network (CNN) trained on a self-generated dataset.
